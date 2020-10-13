@@ -1,0 +1,54 @@
+
+body{
+    background-color:rgb(238, 237, 237);
+}
+.titre{color:white;
+    background-color: blue;
+    width:15%;
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    margin-bottom: 6 px;
+    margin-top :6 px;
+}
+.titre1{color:white;
+    background-color: blue;
+    width:35%;
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    padding-bottom: 6 px;
+}
+
+
+.img{position: absolute;
+    top:20px;
+    right:50px;
+    border-radius: 10px;
+    
+    margin-left: 6 px;
+    margin-bottom: 6 px;
+
+  
+
+    
+
+}
+* {box-sizing:border-box}
+
+
+.container {
+  width: 60%; 
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 6px; 
+  padding-bottom: 6px; 
+  color: white; 
+}
+
+.ar {width: 90%; background-color: #2196F3;} 
+.fr {width: 65%; background-color: #2196F3;} 
+.en {width: 45%; background-color: #2196F3;} 
